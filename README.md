@@ -1,2 +1,2 @@
-s# MY_Charp
+# MY_Charp
 OOP Homework
